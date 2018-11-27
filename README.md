@@ -1,1 +1,3 @@
-# DVC305_Applying_Chaos_Eng_to_Serverless
+# Applying Chaos Engineering applied to Serverless Architecture
+Chaos Engineering = Continuous Resilience Testing
+
